@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SpTeaching</string>
+    <string name="Sem1module1">Complex Number and Hyperbolic Function</string>
+    <string name="Sem1module2">Successive Differentiation</string>
+    <string name="Sem1module3">Matrix and its types</string>
+    <string name="Sem1module4">Partial differentiation and Eulers theorem</string>
+    <string name="Sem1module5">Application of Partial differentiation-Maxima and minima,Jacobian,And Expansion of Function and limits:
+</string>
+    <string name="Sem1module6">Indeterminate forms, Transcendental Equations and System of linear Equations</string>
+
+    <string name="Sem2module1">Differential Equations(first order and first Degree)</string>
+    <string name="Sem2module2">Linear differential equations (constant and variable coefficients)</string>
+    <string name="Sem2module3">solution of Differential Equations , Beta and gamma function</string>
+    <string name="Sem2module4">Differentiation Under Integral sign(DUIS)</string>
+    <string name="Sem2module5">Double Integration</string>
+    <string name="Sem2module6">Triple integration and Applications of multiple integrals</string>
+
+</resources>
