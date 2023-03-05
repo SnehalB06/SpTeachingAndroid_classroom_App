@@ -4,10 +4,10 @@ App Link: https://play.google.com/store/apps/details?id=com.spteach.spteachfinal
 
 
 
-<h1>Restaurant Management System</h1>
+
 	<ul>
 		<li>Home Page</li>
-		<img src="https://github.com/SnehalB06/Restaurant_Management/blob/master/PYTHON%20PROJECT/AppImg/home.jpg" width=50% height=50%>
+		<img src="Photos/p1.jpg" width=50% height=50%>
 		<li>Login</li>
 		<img src="https://github.com/SnehalB06/Restaurant_Management/blob/master/PYTHON%20PROJECT/AppImg/Login.jpg" width=50% height=50% />
     <li>Signup</li>
