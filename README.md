@@ -1,5 +1,4 @@
-# SpTeachingAndroid
-
+# SpTeaching Android Classroom App
 App Link: https://play.google.com/store/apps/details?id=com.spteach.spteachfinal
 <br><br>
 <br>
